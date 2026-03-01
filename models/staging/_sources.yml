@@ -1,6 +1,6 @@
 version: 2
 sources:  
-  - name: google_drive    
+  - name: GOOGLE_DRIVE_TD    
     database: PC_FIVETRAN_DB    
     schema: GOOGLE_DRIVE_TD    
     tables:      
